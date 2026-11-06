@@ -1,0 +1,25 @@
+{
+  "name": "Alexei",
+  "photo": null,
+  "role": {
+    "ar": "مطوّر تطبيق QR Rights",
+    "fr": "Développeur de QR Rights",
+    "en": "QR Rights developer"
+  },
+  "links": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/Alexey2986",
+      "icon": "logo-facebook",
+      "color": "#1877F2",
+      "image": null
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/z.e.r.o.12_x.43",
+      "icon": "logo-instagram",
+      "color": "#E1306C",
+      "image": null
+    }
+  ]
+}
